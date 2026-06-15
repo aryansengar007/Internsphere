@@ -228,13 +228,13 @@ Internsphere/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/aryansengar007/WEBPAGE-ASS3.git
+git clone https://github.com/aryansengar007/Internsphere.git
 ```
 
 **2. Navigate into the project folder**
 
 ```bash
-cd WEBPAGE-ASS3
+cd Internsphere
 ```
 
 **3. Launch in your browser**
