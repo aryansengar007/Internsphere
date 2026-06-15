@@ -207,7 +207,7 @@ future-foundry/
 │   └── 🔷 logo.svg              ← Browser tab favicon
 │
 ├── 📂 src/                       ← Source files
-│   └── 📄 internships.html       ← Main page (all HTML + CSS + JS)
+│   └── 📄 index.html       ← Main page (all HTML + CSS + JS)
 │
 └── 📂 lib/                       ← Library / utility files (if any)
 ```
@@ -241,10 +241,10 @@ cd future-foundry
 
 ```bash
 # Option A — Open directly in browser:
-open src/internships.html
+open src/index.html
 
 # Option B — Use VS Code Live Server (recommended for SVG icon loading):
-# Right-click src/internships.html → "Open with Live Server"
+# Right-click src/index.html → "Open with Live Server"
 ```
 
 > ✅ No npm install. No build step. No bundler. No configuration needed.
