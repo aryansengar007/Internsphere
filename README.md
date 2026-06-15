@@ -55,11 +55,9 @@
 
 <div align="center">
 
-> 📸 **Add your screenshot here** — replace the path below with your actual preview image
+[![Site Preview](assets_readme/hero.png)](https://internsphere.netlify.app/)
 
-[![Site Preview](assets_readme/preview.png)](#)
-
-*Click the preview to visit the live site ↑*
+*Click the badge above to visit the live site ↑*
 
 </div>
 
@@ -199,7 +197,7 @@ Web Development  ·  App Development  ·  Python Programming  ·  Java Programmi
 ## 📁 Project Structure
 
 ```
-WEBPAGE-ASS3/
+Internsphere/
 │
 ├── 📂 public/                    ← Static assets served directly
 │   ├── 🌐 Web-Development.svg    ← Icon for Web Dev card
@@ -289,22 +287,6 @@ open src/internships.html
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=2" width="100%"/>
 
 <br/>
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                       DEMO VIDEO                               -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## 🎥 Project Demo
-
-<div align="center">
-
-The demo walks through all interactions — filter pills, card hover effects (Electric Border, Glare, 3D tilt, Antigravity icons), Click Spark bursts, scroll reveal entrance, bookmark toggle, and responsive behavior across devices.
-
-<br/>
-
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-Google%20Drive-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-
-</div>
 
 <br/>
 
