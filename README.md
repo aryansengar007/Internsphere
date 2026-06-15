@@ -55,7 +55,7 @@
 
 <div align="center">
 
-[![Site Preview](assets_readme/hero.png)](https://internsphere.netlify.app/)
+[![Site Preview](assets_readme/hero.png)](https://future-foundry.netlify.app/)
 
 *Click the badge above to visit the live site ↑*
 
@@ -197,7 +197,7 @@ Web Development  ·  App Development  ·  Python Programming  ·  Java Programmi
 ## 📁 Project Structure
 
 ```
-Internsphere/
+future-foundry/
 │
 ├── 📂 public/                    ← Static assets served directly
 │   ├── 🌐 Web-Development.svg    ← Icon for Web Dev card
@@ -228,13 +228,13 @@ Internsphere/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/aryansengar007/Internsphere.git
+git clone https://github.com/aryansengar007/future-foundry.git
 ```
 
 **2. Navigate into the project folder**
 
 ```bash
-cd Internsphere
+cd future-foundry
 ```
 
 **3. Launch in your browser**
